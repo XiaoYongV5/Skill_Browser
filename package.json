@@ -1,0 +1,15 @@
+{
+  "name": "skill-browser",
+  "version": "1.0.0",
+  "description": "Trae Skill Browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "gray-matter": "^4.0.3",
+    "glob": "^10.3.10",
+    "cors": "^2.8.5"
+  }
+}
